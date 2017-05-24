@@ -23,3 +23,7 @@ Things you may want to cover:
 
 * ...
 # to_do_list
+
+* bundle install
+* rake db:migrate
+* rails s
